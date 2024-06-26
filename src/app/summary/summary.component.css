@@ -1,0 +1,25 @@
+.summary-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .summary-container p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .summary-container button {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .summary-container button:hover {
+    background-color: #007bb5;
+  }
+  
